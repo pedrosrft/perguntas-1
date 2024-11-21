@@ -1,23 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Fundação',
+    'Em que ano a Ponte Preta foi fundada?',
+    '1900'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Títulos',
+    'Quantos títulos a Ponte Preta tem?',
+    '0'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Artilharia',
+    'Qual o maior artilheiro da Ponte Preta?',
+    'Dicá'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Mascote',
+    'Qual o mascote da Ponte Preta?',
+    'Macaca',
+
 )
